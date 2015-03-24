@@ -1,0 +1,253 @@
+
+[ IATA BSP Management Information Report ]
+
+Reporting Criteria
+* Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that 100% or more sales variation.
+* All amounts in this Report have been converted to USD using IATA 5 days exchange rate.
+
+Definitions
+* Head Office: Agent IATA code
+* Legal Name: Agent Legal Name
+* Loc Type: Agent Location Type (HO-Head Office, AO-Administrative Office)
+* Frq: Remittance Frequency (W-Weekly, T-Twice a Week, S-Super Weekly, F-Fortnightly, D-Every 10 days, M-Monthly)
+* Sales to be Remitted: Total Reported Sales(NET) in the report period that are not yet due for remittance.
+* Security Utilized(%): The percentage of Financial Security used compared to sales to be remitted.
+* Daily Cash Avg: The ratio between Daily Net Cash Sales(cumulated) until the date of this report and the number of days in the reported period.
+* Sales Variation: The Daily Cash Average in the current period as compared to the Average Daily Cash sales in the last 12 months.
+
+List of BSP Countries for which Agents meet the filtering criteria
+- United Arab Emirates (AE)
+- Argentina (AR)
+- Austria (AT)
+- Canada (CA)
+- Côte d'Ivoire (CI)
+- Chile (CL)
+- Dominican Republic (DO)
+- France (FR)
+- United Kingdom (GB)
+- Greece (GR)
+- Hong Kong (HK)
+- Indonesia (ID)
+- Ireland (IE)
+- India (IN)
+- Italy (IT)
+- Kazakhstan (KZ)
+- Morocco (MA)
+- Mexico (MX)
+- Malaysia (MY)
+- Philippines (PH)
+- Pakistan (PK)
+- Saudi Arabia (SA)
+- Turkey (TR)
+- Chinese Taipei (TW)
+
+
+BSP United Arab Emirates (AE)
+02-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+86212103 SKYLINE TRAVEL, TOURISM & SHIPPING      HO   W      2,226,350.96 Bank Guarantee           142.12%     106,016.71    159.04%
+
+
+BSP Argentina (AR)
+10-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+55502624 DESPEGAR.COM.AR S.A.                    HO   W      1,770,592.39 Insurance Bond            56.33%     136,199.41    134.60%
+55834450 ROTAMUND S.R.L.                         HO   W        540,778.75                              N/A      41,598.37    106.96%
+
+
+BSP Austria (AT)
+02-Mar-2015 - 21-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+06200950 KNEISSL TOURISTIK GMBH                  HO   W        746,409.31 Statement Of Assign      101.00%      37,320.47    116.83%
+
+
+BSP Canada (CA)
+10-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+67500716 SKYROUTE TRAVEL SERVICES INC.           HO   W      2,548,474.69                              N/A     196,036.51    479.14%
+69683246 LEXUS TRAVEL INC. VOYAGES LEXUS INC.    HO   W        823,248.62                              N/A      63,326.82    194.50%
+
+
+BSP Côte d'Ivoire (CI)
+02-Mar-2015 - 21-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+39210710 CONGRESS AND BUSINESS MANAGEMENT -COTE  HO   M        910,475.74 Bank Guarantee           472.90%      45,523.79    121.69%
+
+
+BSP Chile (CL)
+10-Mar-2015 - 21-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+75502582 PANAMERICANA TURISMO LTDA.              HO   W        445,339.55                              N/A      37,111.63    100.50%
+
+
+BSP Dominican Republic (DO)
+10-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+92534901 TRAVELWISE COORDINADORES DE VIAJES Y EV HO   W        615,941.41 Bank Guarantee           128.05%      47,380.11    101.95%
+
+
+BSP France (FR)
+02-Mar-2015 - 21-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+20205765 TRAVEL PLANET NORD DE FRANCE SARL       HO   W      1,347,326.62                              N/A      67,366.33    253.74%
+
+
+BSP United Kingdom (GB)
+02-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+91209311 HAYS TRANSPORT LTD                      HO   W      1,408,259.40                              N/A      67,059.97    142.83%
+91213220 MR M A ALAM AND MR A ASAHRIF            HO   W      1,131,670.35                              N/A      53,889.06    103.40%
+91238862 NST TRAVEL GROUP LIMITED                HO   W      1,921,292.64                              N/A      91,490.13    142.55%
+91274956 EQUITY INSPIRING LEARNING LIMITED       HO   W      2,452,771.16 Bank Guarantee           222.54%     188,674.70    863.85%
+91284712 BANKS SADLER LTD                        HO   W      1,397,363.80                              N/A      66,541.13    218.31%
+
+
+BSP Greece (GR)
+02-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+27213465 AIRTICKETS TOURISTIKES YPIRESIES A.E.   HO   F      8,626,375.15                              N/A     410,779.77    128.05%
+
+
+BSP Hong Kong (HK)
+10-Mar-2015 - 20-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+13300280 HONG KONG WING ON TRAVEL SERVICE LTD    HO   W      4,627,735.92                              N/A     420,703.27    130.41%
+13301853 WINCASTLE TRAVEL (HK) LTD               HO   W      1,325,037.04                              N/A     120,457.91    103.27%
+13302822 NORRAY TRAVEL CO LTD                    HO   W        889,953.57                              N/A      80,904.87    112.19%
+13303614 EGL TOURS COMPANY LIMITED               HO   W      1,053,521.86                              N/A      95,774.71    148.04%
+13305456 TEMPUS GLOBAL LIMITED                   HO   W        403,864.96 Bank Guarantee            97.89%      36,715.00    106.29%
+13305600 HUTCHISON-PRICELINE (TRAVEL) LTD        HO   W      2,497,336.39 Bank Guarantee           298.01%     227,030.58    127.27%
+
+
+BSP Indonesia (ID)
+02-Mar-2015 - 21-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+15310201 PT ARMINAREKA PERDANA                   HO   F      1,109,059.78 DIP                       55.45%      55,452.99    103.54%
+15310956 PT ALIA INDAH WISATA                    HO   F      4,177,003.55 DIP                      208.85%     219,842.29    159.16%
+
+
+BSP Ireland (IE)
+09-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+36200301 USIT IRELAND LTD                        HO   W      1,374,093.03                              N/A      98,149.50    252.24%
+
+
+BSP India (IN)
+09-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+14341294 AADESH TRAVELS PVT. LTD.                HO   F        868,473.06 Bank Guarantee, Ins      181.77%      62,033.79    106.59%
+
+
+BSP Italy (IT)
+02-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+38214540 IMPRONTE VIAGGI SRL                     HO   M      1,057,422.17 Bank Guarantee           102.97%      50,353.44    104.18%
+38277702 VIAGGIARE SRL                           HO   M      5,789,071.78 Bank Guarantee           152.69%     275,670.08    154.09%
+
+
+BSP Kazakhstan (KZ)
+09-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+65320511 LLP FIRM AMID                           HO   W        622,445.72 Bank Guarantee           194.51%      44,460.41    121.53%
+
+
+BSP Morocco (MA)
+02-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+54210026 S'TOURS S.A.                            HO   M      1,020,605.92                              N/A      48,600.28    151.15%
+
+
+BSP Mexico (MX)
+10-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+86500772 CORPORATE TRAVEL SERVICES S.A. DE C.V.  HO   W      4,041,196.44                              N/A     310,861.26    100.40%
+
+
+BSP Malaysia (MY)
+10-Mar-2015 - 20-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+20300711 GOLDEN TOURWORLD TRAVEL (M) SDN BHD     HO   W        830,026.42 Bank Guarantee           159.93%      75,456.95    104.89%
+20311804 ANDALUSIA TRAVEL & TOURS SDN BHD        HO   W        675,286.60 Bank Guarantee           163.16%      61,389.69    158.80%
+
+
+BSP Philippines (PH)
+02-Mar-2015 - 20-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+28300252 EXECUTIVE RESOURCES INC.                HO   W        699,556.96 DIP                       27.98%      36,818.79    115.82%
+28300381 PIONEER TOURS CORPORATION               HO   W        753,687.83 DIP                       30.15%      39,667.78    119.11%
+28303564 SPECTRUM TRAVEL AND TOURS, INC          HO   W      1,056,511.63 DIP                       42.26%      55,605.88    133.52%
+
+
+BSP Pakistan (PK)
+10-Mar-2015 - 20-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+27303054 BUKHARI TRAVEL SERVICES (PVT) LTD       HO   W        471,786.30 Insurance Bond           100.02%      42,889.66    146.18%
+27304351 MAX INTERNATIONAL TRAVELS PVT LTD       HO   W        428,886.50 Insurance Bond            77.25%      38,989.68    124.39%
+
+
+BSP Saudi Arabia (SA)
+02-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+71200441 AL GHAZAL TRAVEL AGENCY                 HO   W      2,174,807.60 Bank Guarantee           417.27%     103,562.27    102.01%
+71204792 SANDROSS TRAVEL & TOUR AGENCY           HO   W        810,046.59 Bank Guarantee           303.85%      38,573.65    103.87%
+71212164 ALRAJHI TRAVELS & TOURISM               HO   W      2,284,863.45 Bank Guarantee           188.65%     108,803.02    158.34%
+
+
+BSP Turkey (TR)
+02-Mar-2015 - 22-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+88216575 IATI TURIZM TICARET AS                  HO   F      1,897,563.65 Bank Guarantee           292.83%      90,360.17    211.07%
+
+
+BSP Chinese Taipei (TW)
+09-Mar-2015 - 20-Mar-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+34300431 GREAT STAR TRAVEL SERVICE               HO   W      1,190,361.08 Bank Guarantee            71.14%      99,196.76    127.52%
