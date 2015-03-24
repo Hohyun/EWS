@@ -1,12 +1,25 @@
 
-import os, re, subprocess
+import sys, getopt, os, re, subprocess
 
 DATADIR = ""
-DATAFILE = "mir.txt"
+# DATAFILE = "mir.txt"
+DATAFILE = 'Management_Information_Report_Agent_Sales_2015-03-23-13.txt'
+
 OUTFILE = "mir_extracted.txt"
 #EWS_DATA = '27303054 BUKHARI TRAVEL SERVICES (PVT) LTD HO W 968,156.00 Insurance Bond 205.25% 38,726.24 122.28%'
 #EWS_DATA = '91209311 HAYS TRANSPORT LTD HO W 3,499,769.95 N/A 83,327.81 201.74%'
 #EWS_DATA = '35308431 EXPEDIA (THAILAND) LIMITED HO W 1,382,034.99 * * 115,169.58 105.61%'
+
+# 06200950 KNEISSL TOURISTIK GMBH HO W 746,409.31
+# Statement Of
+# Assignment
+# 101.00% 37,320.47 116.83%
+
+# 14341294 AADESH TRAVELS PVT. LTD. HO F 868,473.06
+# Bank Guarantee,
+# Insurance Bond
+# 181.77% 62,033.79 106.59%
+
 
 class Mir():
     '''
@@ -25,11 +38,27 @@ class Mir():
         flag = False
 
         with open(self.src, "r") as f:
+            data = ''
+            dataFound = False
+
             for line in f:
                 if flag == True:
                     match = re.search('^\d{8}', line)
+                    # to do: merge line until line ends with % if line does not end %
                     if match:
-                        self.parsed_data.append(line.strip())
+                        # multi_flag = True
+                        dataFound = True
+                        data += line.strip()
+                        if data[-1] == '%':
+                            self.parsed_data.append(data)
+                            dataFound = False
+                            data = ''
+                    elif dataFound == True:
+                        data += ' {0}'.format(line.strip())
+                        if data[-1] == '%':
+                            self.parsed_data.append(data)
+                            dataFound = False
+                            data = ''
 
                 match = re.search('Page\s\d+\sof\s\d+$', line)
                 if match:
@@ -97,6 +126,10 @@ class Mir():
         return info
 
     def format_ews_info(self):
+        filtered_bsp = self.parse_bsps()
+        for bsp in filtered_bsp:
+            self.extracted_data += "- %s\n" % bsp
+
         header =    "%-8s %-39s %-4s %-4s %14s %-19s %12s %14s %10s" % \
                  ('Head', '', 'Loc', '', 'Sales to be', 'Security', 'Security', 'Daily', 'Sales')
         header += "\n%-8s %-39s %-4s %-4s %14s %-19s %12s %14s %10s" % \
@@ -110,8 +143,8 @@ class Mir():
                 info = self.parse_security_info(line)
 
                 data = "%-8s %-39s %-4s %-4s %14s %-19s %12s %14s %10s" % \
-                       (info['iata_no'], info['agt_name'], info['location_type'], \
-                        info['frequency'], info['amt_to_be_remitted'], info['security_type'], \
+                       (info['iata_no'], info['agt_name'][0:39], info['location_type'], \
+                        info['frequency'], info['amt_to_be_remitted'], info['security_type'][0:19], \
                         info['security_utilized'], info['daily_cash_avg'], info['sales_variation'])
                 #print data
                 self.extracted_data += "%s\n" % data
@@ -119,7 +152,7 @@ class Mir():
                 s = line.split('Period:')
                 self.extracted_data += "\n\n%s\n%s\n%s\n%s\n" % (s[0].strip(), s[1].strip(), header, uline)
 
-        print self.extracted_data
+        # print self.extracted_data
 
     def save_file(self):
         f = open(self.dst, 'w')
@@ -139,10 +172,13 @@ Definitions
 * Security Utilized(%): The percentage of Financial Security used compared to sales to be remitted.
 * Daily Cash Avg: The ratio between Daily Net Cash Sales(cumulated) until the date of this report and the number of days in the reported period.
 * Sales Variation: The Daily Cash Average in the current period as compared to the Average Daily Cash sales in the last 12 months.
+
+List of BSP Countries for which Agents meet the filtering criteria
 """
         f.write(report_header)
         f.write(self.extracted_data)
         f.close()
+        print "Extraction completed ... {0} is created.".format(OUTFILE)
 
     def make_pdf(self, src_pdf):
         page_list = self.parse_pages()
@@ -167,14 +203,29 @@ Definitions
         #subprocess.call(["rm", "*.aux"])
         #subprocess.call(["rm", "*.log"])
 
+def check_args():
+    usage = 'Usage: python extract.py Management_Information_Report_Agent_Sales-yyyy-mm-dd.txt'
+    opts, args = getopt.getopt(sys.argv[1:], "h", "help")
+    for o, a in opts:
+        if o == '-h' or o == '--help':
+            print usage
+            sys.exit(0)
+
+    if len(sys.argv) == 1:
+        print usage
+        sys.exit(0)
+
+
 def main():
-    inputFile = os.path.join(DATADIR, DATAFILE)
+    check_args()
+    # inputFile = os.path.join(DATADIR, DATAFILE)
     outputFile = os.path.join(DATADIR, OUTFILE)
-    mir = Mir(inputFile, outputFile)
+    # mir = Mir(inputFile, outputFile)
+    mir = Mir(sys.argv[1], outputFile)
     mir.parse_file()
     mir.format_ews_info()
     mir.save_file()
-    mir.make_pdf("mir.pdf")
+    # mir.make_pdf("mir.pdf")
 
 if __name__ == '__main__':
     main()
