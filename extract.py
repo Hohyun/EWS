@@ -1,5 +1,6 @@
 
-import sys, getopt, os, re, subprocess
+import sys, getopt, os, re, subprocess, csv
+import pymongo
 
 DATADIR = ""
 # DATAFILE = "mir.txt"
@@ -154,6 +155,35 @@ class Mir():
 
         # print self.extracted_data
 
+    def export_to_csv(self):
+        conn = pymongo.MongoClient("mongodb://localhost")
+        db = conn.ews
+        coll = db.mdm
+
+        bsp = ''
+        with open('mir_extracted.csv', 'wb') as csv_file:
+            w = csv.writer(csv_file)
+            # header
+            w.writerow(['Branch', 'BSP', 'IATA No', 'AGT Name', 'LOC Type', 'Freq.', 'AMT to be Remitted',
+                        'Security Type', 'Security Utilized(%)', 'Daily Cash Avg', 'Sales Variation'])
+            for line in self.parsed_data:
+                match = re.search('^\d{8}', line)
+                if match:
+                    info = self.parse_security_info(line)
+                    doc = coll.find_one({'iata_no' : info['iata_no']})
+                    if doc:
+                        branch = doc['branch'.encode('utf-8')]
+                    else:
+                        branch = ""
+
+                    w.writerow([branch, bsp, info['iata_no'], info['agt_name'], info['location_type'], \
+                        info['frequency'], info['amt_to_be_remitted'], info['security_type'], \
+                        info['security_utilized'], info['daily_cash_avg'], info['sales_variation']])
+                else:
+                    s = line.split('Period:')
+                    bsp = s[0].strip()
+
+
     def save_file(self):
         f = open(self.dst, 'w')
         report_header = """
@@ -223,8 +253,9 @@ def main():
     # mir = Mir(inputFile, outputFile)
     mir = Mir(sys.argv[1], outputFile)
     mir.parse_file()
-    mir.format_ews_info()
-    mir.save_file()
+    # mir.format_ews_info()
+    mir.export_to_csv()
+    # mir.save_file()
     # mir.make_pdf("mir.pdf")
 
 if __name__ == '__main__':
