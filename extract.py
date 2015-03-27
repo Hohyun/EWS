@@ -5,8 +5,8 @@ import pymongo
 DATADIR = ""
 # DATAFILE = "mir.txt"
 DATAFILE = 'Management_Information_Report_Agent_Sales_2015-03-23-13.txt'
-
 OUTFILE = "mir_extracted.txt"
+CSVFILE = "mir_extracted.csv"
 #EWS_DATA = '27303054 BUKHARI TRAVEL SERVICES (PVT) LTD HO W 968,156.00 Insurance Bond 205.25% 38,726.24 122.28%'
 #EWS_DATA = '91209311 HAYS TRANSPORT LTD HO W 3,499,769.95 N/A 83,327.81 201.74%'
 #EWS_DATA = '35308431 EXPEDIA (THAILAND) LIMITED HO W 1,382,034.99 * * 115,169.58 105.61%'
@@ -45,7 +45,6 @@ class Mir():
             for line in f:
                 if flag == True:
                     match = re.search('^\d{8}', line)
-                    # to do: merge line until line ends with % if line does not end %
                     if match:
                         # multi_flag = True
                         dataFound = True
@@ -161,7 +160,7 @@ class Mir():
         coll = db.mdm
 
         bsp = ''
-        with open('mir_extracted.csv', 'wb') as csv_file:
+        with open(CSVFILE, 'wb') as csv_file:
             w = csv.writer(csv_file)
             # header
             w.writerow(['Branch', 'BSP', 'IATA No', 'AGT Name', 'LOC Type', 'Freq.', 'AMT to be Remitted',
@@ -182,6 +181,8 @@ class Mir():
                 else:
                     s = line.split('Period:')
                     bsp = s[0].strip()
+        
+        print "Extraction completed ... {0} is created.".format(CSVFILE)
 
 
     def save_file(self):
@@ -234,7 +235,7 @@ List of BSP Countries for which Agents meet the filtering criteria
         #subprocess.call(["rm", "*.log"])
 
 def check_args():
-    usage = 'Usage: python extract.py Management_Information_Report_Agent_Sales-yyyy-mm-dd.txt'
+    usage = 'Usage: python extract.py source_file.txt'
     opts, args = getopt.getopt(sys.argv[1:], "h", "help")
     for o, a in opts:
         if o == '-h' or o == '--help':
@@ -253,9 +254,11 @@ def main():
     # mir = Mir(inputFile, outputFile)
     mir = Mir(sys.argv[1], outputFile)
     mir.parse_file()
-    # mir.format_ews_info()
+    mir.format_ews_info()
+    # export to csv file
     mir.export_to_csv()
-    # mir.save_file()
+    # txt file save
+    mir.save_file()
     # mir.make_pdf("mir.pdf")
 
 if __name__ == '__main__':
