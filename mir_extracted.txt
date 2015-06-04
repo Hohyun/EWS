@@ -16,238 +16,287 @@ Definitions
 * Sales Variation: The Daily Cash Average in the current period as compared to the Average Daily Cash sales in the last 12 months.
 
 List of BSP Countries for which Agents meet the filtering criteria
-- United Arab Emirates (AE)
 - Argentina (AR)
-- Austria (AT)
-- Canada (CA)
-- Côte d'Ivoire (CI)
+- Australia (AU)
+- Brazil (BR)
 - Chile (CL)
-- Dominican Republic (DO)
+- Denmark (DK)
+- Spain (ES)
 - France (FR)
 - United Kingdom (GB)
 - Greece (GR)
 - Hong Kong (HK)
-- Indonesia (ID)
-- Ireland (IE)
+- Honduras (HN)
 - India (IN)
-- Italy (IT)
+- Jordan (JO)
 - Kazakhstan (KZ)
-- Morocco (MA)
-- Mexico (MX)
+- Lithuania (LT)
 - Malaysia (MY)
-- Philippines (PH)
-- Pakistan (PK)
+- Nigeria (NG)
+- Romania (RO)
+- Russian Federation (RU)
 - Saudi Arabia (SA)
-- Turkey (TR)
-- Chinese Taipei (TW)
-
-
-BSP United Arab Emirates (AE)
-02-Mar-2015 - 22-Mar-2015
-Head                                             Loc          Sales to be Security                Security          Daily      Sales
-Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
--------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-86212103 SKYLINE TRAVEL, TOURISM & SHIPPING      HO   W      2,226,350.96 Bank Guarantee           142.12%     106,016.71    159.04%
+- Venezuela, Bolivarian Republic of (VE)
+- South Africa (ZA)
 
 
 BSP Argentina (AR)
-10-Mar-2015 - 22-Mar-2015
+19-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-55502624 DESPEGAR.COM.AR S.A.                    HO   W      1,770,592.39 Insurance Bond            56.33%     136,199.41    134.60%
-55834450 ROTAMUND S.R.L.                         HO   W        540,778.75                              N/A      41,598.37    106.96%
+55502650 VIAJES FALABELLA S.A.                   HO   W      1,046,262.49 Bank Guarantee           130.31%      80,481.73    116.95%
+55745981 SERVICIOS DE VIAJES Y TURISMO BIBLOS S. HO   W      9,041,226.09                              N/A     695,478.93    132.07%
 
 
-BSP Austria (AT)
-02-Mar-2015 - 21-Mar-2015
+BSP Australia (AU)
+12-May-2015 - 30-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-06200950 KNEISSL TOURISTIK GMBH                  HO   W        746,409.31 Statement Of Assign      101.00%      37,320.47    116.83%
+02351904 MTA-MOBILE TRAVEL AGENTS PTY LTD        HO   W      1,839,720.42                              N/A      96,827.39    157.54%
 
 
-BSP Canada (CA)
-10-Mar-2015 - 22-Mar-2015
+BSP Brazil (BR)
+19-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-67500716 SKYROUTE TRAVEL SERVICES INC.           HO   W      2,548,474.69                              N/A     196,036.51    479.14%
-69683246 LEXUS TRAVEL INC. VOYAGES LEXUS INC.    HO   W        823,248.62                              N/A      63,326.82    194.50%
-
-
-BSP Côte d'Ivoire (CI)
-02-Mar-2015 - 21-Mar-2015
-Head                                             Loc          Sales to be Security                Security          Daily      Sales
-Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
--------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-39210710 CONGRESS AND BUSINESS MANAGEMENT -COTE  HO   M        910,475.74 Bank Guarantee           472.90%      45,523.79    121.69%
+57822284 ABREUTUR VIAGENS E TURISMO LTDA.        HO   W      1,216,047.53 Bank Guarantee           122.81%            N/A        N/A
 
 
 BSP Chile (CL)
-10-Mar-2015 - 21-Mar-2015
+19-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-75502582 PANAMERICANA TURISMO LTDA.              HO   W        445,339.55                              N/A      37,111.63    100.50%
+75617065 KUALITY REPRESENTACIONES Y TURISMO LTDA HO   W      1,316,084.92                              N/A     101,237.30    432.25%
 
 
-BSP Dominican Republic (DO)
-10-Mar-2015 - 22-Mar-2015
+BSP Denmark (DK)
+09-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-92534901 TRAVELWISE COORDINADORES DE VIAJES Y EV HO   W        615,941.41 Bank Guarantee           128.05%      47,380.11    101.95%
+17265942 TUMLARE CORPORATION AS                  HO   W      1,086,046.09 Bank Guarantee           165.34%      47,219.40    118.76%
+
+
+BSP Spain (ES)
+12-May-2015 - 31-May-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+78201502 VIAJES PACIFICO S.A.                    HO   R      1,306,751.19                              N/A      65,337.56    135.21%
+78213925 BRAVOVENTURE SPAIN SLU                  HO   R      9,213,998.93                              N/A     460,699.95    115.33%
 
 
 BSP France (FR)
-02-Mar-2015 - 21-Mar-2015
+02-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-20205765 TRAVEL PLANET NORD DE FRANCE SARL       HO   W      1,347,326.62                              N/A      67,366.33    253.74%
+20224234 V.A.T. VOYAGES AFFAIRES                 HO   M      2,279,724.83                              N/A      75,990.83    118.85%
+81506434 AGENCE PENCHARD SA                      HO   M      2,654,373.48                              N/A      88,479.12    124.15%
 
 
 BSP United Kingdom (GB)
-02-Mar-2015 - 22-Mar-2015
+02-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-91209311 HAYS TRANSPORT LTD                      HO   W      1,408,259.40                              N/A      67,059.97    142.83%
-91213220 MR M A ALAM AND MR A ASAHRIF            HO   W      1,131,670.35                              N/A      53,889.06    103.40%
-91238862 NST TRAVEL GROUP LIMITED                HO   W      1,921,292.64                              N/A      91,490.13    142.55%
-91274956 EQUITY INSPIRING LEARNING LIMITED       HO   W      2,452,771.16 Bank Guarantee           222.54%     188,674.70    863.85%
-91284712 BANKS SADLER LTD                        HO   W      1,397,363.80                              N/A      66,541.13    218.31%
+91207546 MAWASEM LIMITED                         HO   F      4,200,841.40                              N/A     140,028.05    346.37%
+91228900 DEEHURST LTD                            HO   M      1,829,193.04                              N/A      60,973.10    107.27%
+91280862 WORLD CHALLENGE EXPEDITIONS LTD         HO   F      1,482,832.86 Insurance Bond            57.94%      49,427.76    141.12%
 
 
 BSP Greece (GR)
-02-Mar-2015 - 22-Mar-2015
+02-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-27213465 AIRTICKETS TOURISTIKES YPIRESIES A.E.   HO   F      8,626,375.15                              N/A     410,779.77    128.05%
+27213465 AIRTICKETS TOURISTIKES YPIRESIES A.E.   HO   F      6,781,822.15                              N/A     226,060.74    137.86%
 
 
 BSP Hong Kong (HK)
-10-Mar-2015 - 20-Mar-2015
+17-May-2015 - 29-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-13300280 HONG KONG WING ON TRAVEL SERVICE LTD    HO   W      4,627,735.92                              N/A     420,703.27    130.41%
-13301853 WINCASTLE TRAVEL (HK) LTD               HO   W      1,325,037.04                              N/A     120,457.91    103.27%
-13302822 NORRAY TRAVEL CO LTD                    HO   W        889,953.57                              N/A      80,904.87    112.19%
-13303614 EGL TOURS COMPANY LIMITED               HO   W      1,053,521.86                              N/A      95,774.71    148.04%
-13305456 TEMPUS GLOBAL LIMITED                   HO   W        403,864.96 Bank Guarantee            97.89%      36,715.00    106.29%
-13305600 HUTCHISON-PRICELINE (TRAVEL) LTD        HO   W      2,497,336.39 Bank Guarantee           298.01%     227,030.58    127.27%
+13303614 EGL TOURS COMPANY LIMITED               HO   W      1,184,017.02                              N/A      91,078.23    110.31%
 
 
-BSP Indonesia (ID)
-02-Mar-2015 - 21-Mar-2015
+BSP Honduras (HN)
+17-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-15310201 PT ARMINAREKA PERDANA                   HO   F      1,109,059.78 DIP                       55.45%      55,452.99    103.54%
-15310956 PT ALIA INDAH WISATA                    HO   F      4,177,003.55 DIP                      208.85%     219,842.29    159.16%
-
-
-BSP Ireland (IE)
-09-Mar-2015 - 22-Mar-2015
-Head                                             Loc          Sales to be Security                Security          Daily      Sales
-Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
--------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-36200301 USIT IRELAND LTD                        HO   W      1,374,093.03                              N/A      98,149.50    252.24%
+84500231 ALCANCE TRAVEL S.A.DE C.V.              HO   W        943,503.34                              N/A      62,900.22    256.01%
 
 
 BSP India (IN)
-09-Mar-2015 - 22-Mar-2015
+24-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-14341294 AADESH TRAVELS PVT. LTD.                HO   F        868,473.06 Bank Guarantee, Ins      181.77%      62,033.79    106.59%
+14337002 D. PAULS TRAVEL & TOURS LTD             HO   W        512,252.62 Insurance Bond           157.61%      64,031.58    270.28%
+14348272 WORLD TRAVELS (REGD.)                   HO   W        419,998.98 Bank Guarantee, Ins       54.48%      52,499.87    107.46%
 
 
-BSP Italy (IT)
-02-Mar-2015 - 22-Mar-2015
+BSP Jordan (JO)
+02-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-38214540 IMPRONTE VIAGGI SRL                     HO   M      1,057,422.17 Bank Guarantee           102.97%      50,353.44    104.18%
-38277702 VIAGGIARE SRL                           HO   M      5,789,071.78 Bank Guarantee           152.69%     275,670.08    154.09%
+40211625 EL TAHADY TRAVEL & TOURS                HO   F      1,971,541.32 DIP                       46.55%      65,718.04    117.09%
 
 
 BSP Kazakhstan (KZ)
-09-Mar-2015 - 22-Mar-2015
+17-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-65320511 LLP FIRM AMID                           HO   W        622,445.72 Bank Guarantee           194.51%      44,460.41    121.53%
+65320474 SHAKH JOINT VENTURE LTD (KAZAKH - RUSSI HO   W      1,718,214.00 Bank Guarantee           154.10%     114,547.60    118.90%
 
 
-BSP Morocco (MA)
-02-Mar-2015 - 22-Mar-2015
+BSP Lithuania (LT)
+17-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-54210026 S'TOURS S.A.                            HO   M      1,020,605.92                              N/A      48,600.28    151.15%
-
-
-BSP Mexico (MX)
-10-Mar-2015 - 22-Mar-2015
-Head                                             Loc          Sales to be Security                Security          Daily      Sales
-Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
--------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-86500772 CORPORATE TRAVEL SERVICES S.A. DE C.V.  HO   W      4,041,196.44                              N/A     310,861.26    100.40%
+68320243 BALTIC CLIPPER LTD                      HO   F        700,857.79 Surety Bond              272.15%      46,723.85    120.43%
 
 
 BSP Malaysia (MY)
-10-Mar-2015 - 20-Mar-2015
+19-May-2015 - 29-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-20300711 GOLDEN TOURWORLD TRAVEL (M) SDN BHD     HO   W        830,026.42 Bank Guarantee           159.93%      75,456.95    104.89%
-20311804 ANDALUSIA TRAVEL & TOURS SDN BHD        HO   W        675,286.60 Bank Guarantee           163.16%      61,389.69    158.80%
+20300092 MITRA MALAYSIA SDN BHD                  HO   W        450,810.57 Insurance Bond            88.25%      40,982.78    107.86%
+20311804 ANDALUSIA TRAVEL & TOURS SDN BHD        HO   W        610,953.34 Bank Guarantee           146.68%      55,541.21    136.68%
 
 
-BSP Philippines (PH)
-02-Mar-2015 - 20-Mar-2015
+BSP Nigeria (NG)
+02-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-28300252 EXECUTIVE RESOURCES INC.                HO   W        699,556.96 DIP                       27.98%      36,818.79    115.82%
-28300381 PIONEER TOURS CORPORATION               HO   W        753,687.83 DIP                       30.15%      39,667.78    119.11%
-28303564 SPECTRUM TRAVEL AND TOURS, INC          HO   W      1,056,511.63 DIP                       42.26%      55,605.88    133.52%
+59212425 TRAVELSTART WEB LOGISTICS LIMITE D      HO   F      1,682,983.31 DIP                       91.53%      56,099.44    105.98%
 
 
-BSP Pakistan (PK)
-10-Mar-2015 - 20-Mar-2015
+BSP Romania (RO)
+09-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-27303054 BUKHARI TRAVEL SERVICES (PVT) LTD       HO   W        471,786.30 Insurance Bond           100.02%      42,889.66    146.18%
-27304351 MAX INTERNATIONAL TRAVELS PVT LTD       HO   W        428,886.50 Insurance Bond            77.25%      38,989.68    124.39%
+69212216 PARAVION TOUR SRL                       HO   W      2,333,307.76 Insurance Bond           766.16%     101,448.16    111.07%
+
+
+BSP Russian Federation (RU)
+17-May-2015 - 29-May-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+92210016 TRANSTOUR TRAVEL LLC                    HO   W      1,788,775.90 Bank Guarantee           223.60%     137,598.15    122.34%
 
 
 BSP Saudi Arabia (SA)
-02-Mar-2015 - 22-Mar-2015
+09-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-71200441 AL GHAZAL TRAVEL AGENCY                 HO   W      2,174,807.60 Bank Guarantee           417.27%     103,562.27    102.01%
-71204792 SANDROSS TRAVEL & TOUR AGENCY           HO   W        810,046.59 Bank Guarantee           303.85%      38,573.65    103.87%
-71212164 ALRAJHI TRAVELS & TOURISM               HO   W      2,284,863.45 Bank Guarantee           188.65%     108,803.02    158.34%
+71204206 AL-AHRAM TOURISM AND TRAVEL CO. LTD     HO   W      3,683,338.62 Bank Guarantee           138.48%     160,145.16    273.71%
+71204792 SANDROSS TRAVEL & TOUR AGENCY           HO   W      1,132,998.37 Bank Guarantee           424.90%      49,260.80    115.60%
+71212105 SAUDI EBREEZ TRAVEL & TOURISM CO        HO   W      4,265,105.94 Bank Guarantee           440.39%     185,439.39    110.52%
 
 
-BSP Turkey (TR)
-02-Mar-2015 - 22-Mar-2015
+nezuela, Bolivarian Republic of (VE)
+17-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-88216575 IATI TURIZM TICARET AS                  HO   F      1,897,563.65 Bank Guarantee           292.83%      90,360.17    211.07%
+95500473 FUNCHAL TOURS C.A.                      HO   W        903,443.58 Insurance Bond         5,736.17%            N/A        N/A
+95500683 VIAJES Y TURISMO ZUMAQUE C.A.           HO   W      1,244,096.74                              N/A            N/A        N/A
+95500731 CAMAR TOURS C.A.                        HO   W      4,839,878.45                              N/A            N/A        N/A
+95500753 AGENCIA DE VIAJES MAZZOCHI C.A.         HO   W      1,509,226.58                              N/A            N/A        N/A
+95500812 MORRONE TOURS C.A.                      HO   W      1,333,632.10                              N/A            N/A        N/A
+95501000 ADVANCE TRAVEL C.A.                     HO   W      1,133,202.30                              N/A            N/A        N/A
+95501162 WORLD CLASS EVENTS C.A.                 HO   W      1,537,921.42                              N/A            N/A        N/A
+95501206 SOUVENIR TOURS VIAJES Y TURISMO C.A.    HO   W      3,888,036.85                              N/A            N/A        N/A
+95501210 IMAGINATION TOURS C.A.                  HO   W      1,144,972.79                              N/A            N/A        N/A
+95501313 LAS OLAS VIAJES Y TURISMO C.A.          HO   W      3,296,931.10                              N/A            N/A        N/A
+95501453 HUMBERMAR TOURS C.A.                    HO   W      1,619,962.57                              N/A            N/A        N/A
+95501501 A B C TOURS C.A.                        HO   W      1,414,864.41                              N/A            N/A        N/A
+95501512 AGENCIA DE VIAJES Y TURISMO PERSON'S TO HO   W      1,027,827.70                              N/A            N/A        N/A
+95501630 UNITRAVEL VIAJES Y TURISMO C.A.         HO   W      1,533,607.04                              N/A            N/A        N/A
+95501733 SPACE TOURS AGENCIA DE VIAJES C.A.      HO   W      2,764,580.29                              N/A            N/A        N/A
+95502035 AGENCIA DE VIAJES Y TURISMO NEW YORK TR HO   W        989,322.25                              N/A            N/A        N/A
+95502341 EURO TOURS, C.A                         HO   W      1,047,880.02                              N/A            N/A        N/A
+95502374 CENTURIA TRAVEL C.A.                    HO   W      2,171,024.49                              N/A            N/A        N/A
+95502411 VIAJES SOLESTA C.A.                     HO   W      1,122,566.97                              N/A            N/A        N/A
+95502606 REPRESENTACIONES OVERSEAS C.A.          HO   W      1,364,616.94                              N/A            N/A        N/A
+95502853 TWINS TRAVEL C.A.                       HO   W      2,289,022.37                              N/A            N/A        N/A
+95502890 LINA TOUR, C.A.                         HO   W        540,589.13                              N/A            N/A        N/A
+95502912 SALPATUR SERVICE C.A.                   HO   W        966,761.75                              N/A            N/A        N/A
+95503354 CLASE C.A. AGENCIA DE VIAJES Y TURISMO  HO   W      1,328,738.49                              N/A            N/A        N/A
+95503494 MYL VIAJES C.A.                         HO   W      1,381,775.95 Insurance Bond           312.28%            N/A        N/A
+95503516 AGENCIA DE VIAJES Y TURISMO TELETOUR C. HO   W      3,388,270.56                              N/A            N/A        N/A
+95503623 DESCUBRA TOURS C.A.                     HO   W      1,191,112.04                              N/A            N/A        N/A
+95503645 ALHAMA VIAJES C.A.                      HO   W        896,256.87                              N/A            N/A        N/A
+95503763 VIAJES INDIGO ISLA MARGARITA C.A.       HO   W        648,859.10                              N/A            N/A        N/A
+95504091 M.C. AIR, C.A.                          HO   W      6,274,206.32 Insurance Bond           289.04%            N/A        N/A
+95506456 AGENCIA ATLAS S.A.                      HO   W      3,351,947.41                              N/A            N/A        N/A
+95506876 UNIGLOBE CANDES TRAVEL C.A.             HO   W      5,531,015.72                              N/A            N/A        N/A
+95510236 QUO VADIS C.A. AGENTE DE VIAJES Y TURIS HO   W      1,777,631.80                              N/A            N/A        N/A
+95512631 COSTA VERDE VIAJES Y TURISMO C.A        HO   W        907,305.03                              N/A            N/A        N/A
+95515615 EXTRAVAGANZA VIAJES Y TURISMO C.A.      HO   W      2,276,810.09                              N/A            N/A        N/A
+95529033 AGENCIA DE VIAJES JUDIBANA C.A.         HO   W      1,137,578.54                              N/A            N/A        N/A
+95533616 PRISMA TOURS C.A.                       HO   W        739,103.46                              N/A            N/A        N/A
+95534633 TOMACA TOURS C.A.                       HO   W      2,094,845.20                              N/A            N/A        N/A
+95543066 VIAJES PREMIERE C.A.                    HO   W        767,590.20                              N/A            N/A        N/A
+95545870 TITOTUR COMPANIA ANONIMA                HO   W      3,477,466.32                              N/A            N/A        N/A
+95555272 MATECOCO TOURS C.A.                     HO   W      3,530,614.45                              N/A            N/A        N/A
+95580041 EL FARO AGENCIA DE VIAJES C.A.          HO   W      1,636,069.35                              N/A            N/A        N/A
+95599243 CLUB DEL TROTAMUNDO C.A.                HO   W      3,314,091.32                              N/A            N/A        N/A
+95638550 VIAJES VINA DEL MAR C.A.                HO   W      3,807,824.24                              N/A            N/A        N/A
+95648884 BONANZA TOURS C.A.                      HO   W      3,829,912.32                              N/A            N/A        N/A
+95683453 VIAJES Y TURISMO LUCKY TOURS C.A        HO   W        640,625.78 Bank Guarantee           126.38%            N/A        N/A
+95683895 VIAJES VIRAMUNDO C.A.                   HO   W      2,892,741.13                              N/A            N/A        N/A
+95706284 INTERNACIONAL AGENCIA DE VIAJES C.A.    HO   W      4,586,955.41                              N/A            N/A        N/A
+95710974 ITALCAMBIO AGENCIA DE VIAJES C.A.       HO   W      1,822,473.40                              N/A            N/A        N/A
+95770463 MOLINA AGENCIA DE VIAJES C.A.           HO   W      4,797,009.69                              N/A            N/A        N/A
 
 
-BSP Chinese Taipei (TW)
-09-Mar-2015 - 20-Mar-2015
+nezuela, Bolivarian Republic of (VE)
+17-May-2015 - 31-May-2015
 Head                                             Loc          Sales to be Security                Security          Daily      Sales
 Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
 -------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
-34300431 GREAT STAR TRAVEL SERVICE               HO   W      1,190,361.08 Bank Guarantee            71.14%      99,196.76    127.52%
+95775886 REPRESENTACIONES M & G TOURS C.A.       HO   W      2,679,611.79                              N/A            N/A        N/A
+95782374 AGENCIA DE VIAJES PASSARINI SUAREZ C.A. HO   W      3,567,176.39                              N/A            N/A        N/A
+95798706 TURISMO INTERNACIONAL S.R.L.            HO   W      1,072,558.81                              N/A            N/A        N/A
+95809582 PLUS ULTRA C.A.                         HO   W        742,972.86 Bank Guarantee, Ins      228.69%            N/A        N/A
+95901562 TURISMO MASO INTERNACIONAL C.A.         HO   W     16,412,779.91                              N/A            N/A        N/A
+95916192 VIAJES ANDARI C.A.                      HO   W        979,947.13                              N/A            N/A        N/A
+95918012 VIAJES MADRID CARACAS C.A.              HO   W        899,742.23                              N/A            N/A        N/A
+
+
+nezuela, Bolivarian Republic of (VE)
+17-May-2015 - 31-May-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+
+
+nezuela, Bolivarian Republic of (VE)
+17-May-2015 - 31-May-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+
+
+BSP South Africa (ZA)
+02-May-2015 - 31-May-2015
+Head                                             Loc          Sales to be Security                Security          Daily      Sales
+Office   Legal Name                              Type Frq.       Remitted Type                 Utilized(%)       Cash Avg  Variation
+-------- --------------------------------------- ---- ---- -------------- ------------------- ------------ -------------- ----------
+77202646 MAGIC TRAVEL (PTY) LTD                  HO   W      1,518,444.17 Bank Guarantee           204.76%      50,614.81    120.49%

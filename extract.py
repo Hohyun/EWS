@@ -49,13 +49,13 @@ class Mir():
                         # multi_flag = True
                         dataFound = True
                         data += line.strip()
-                        if data[-1] == '%':
+                        if data[-1] == '%' or data[-3:] == 'N/A':
                             self.parsed_data.append(data)
                             dataFound = False
                             data = ''
                     elif dataFound == True:
                         data += ' {0}'.format(line.strip())
-                        if data[-1] == '%':
+                        if data[-1] == '%' or data[-3:] == 'N/A':
                             self.parsed_data.append(data)
                             dataFound = False
                             data = ''
@@ -104,7 +104,7 @@ class Mir():
 
     def parse_security_info(self, EWS_DATA):
         info = {}
-        m = re.search('^(\d{8})\s(.*)\s(HO|AO)\s([WTFSDM])\s(.*)',EWS_DATA)
+        m = re.search('^(\d{8})\s(.*)\s(HO|AO)\s([WTFSDMR])\s(.*)',EWS_DATA)
         temp = ''
         if m:
             info['iata_no'] = m.group(1)
@@ -140,6 +140,7 @@ class Mir():
         for line in self.parsed_data:
             match = re.search('^\d{8}', line)
             if match:
+                print line
                 info = self.parse_security_info(line)
 
                 data = "%-8s %-39s %-4s %-4s %14s %-19s %12s %14s %10s" % \
@@ -252,7 +253,7 @@ def main():
     # inputFile = os.path.join(DATADIR, DATAFILE)
     outputFile = os.path.join(DATADIR, OUTFILE)
     # mir = Mir(inputFile, outputFile)
-    mir = Mir(sys.argv[1], outputFile)
+    mir = Mir(sys.argv[1], outputFile)   
     mir.parse_file()
     mir.format_ews_info()
     # export to csv file

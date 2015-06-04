@@ -1,1331 +1,0 @@
-Reporting Criteria
-Dear BSP Participant,
-Please be informed that the information contained in this report may be used to guide your individual
-commercial decisions. The contents of the report should not be discussed with other Airlines or Agents
-other than the Agent whose sales have triggered the report.
-All amounts in this Report have been converted to USD using the IATA 5 day exchange rate.
-Agents appearing in this report:
-Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above that have 100 % or
-more sales variation (i.e. average daily sales for the reporting period have more than doubled as compared to the
-average daily sales for the past year).
-Note: The sales of Head Offices and of Branch locations within the same country have been consolidated under the
-Head Office code.
-Note: For the initial launch, when there is one or more Branches located in other countries that have sales as part
-of the Agent group, the Agent group will be excluded from the Report. IATA will advise immediately when these
-Agents become available.
-The primary purpose of these reports is used for Agency Risk Management by IATA field offices working closely
-with the regional hubs to support local engagement on potential risk to industry funds. These reports allow IATA to
-identify Agents in each BSP with significant deviations in their sales amounts. These reports are to provide more
-visibility on the Agent's financial situation and allow Airlines and IATA to react faster with this additional information,
-therefore proactively safeguarding BSP Airlines' funds.
-For enquiries please consult our Frequently Asked Questions (FAQ) section in Customer Portal. For further
-information, please contact our Customer Support team at www.iata.org/customer
-Report Period
-The report period starts on the first day of sales to be remitted (first day after the previous remittance date) and
-finishes two days before the Report is generated.
-Countries not included in the Management Information Report
-Israel is not included in the Management Information Reports due to the legal restrictions imposed by government
-regulators.
-The following countries: Brazil, China, Germany, Kosovo, Netherlands, Russia, Serbia, South Korea and Venezuela
-are not included in the current report. IATA will advise as soon as reports for the BSPs in these countries become
-available.
-Financial Securities
-Please be advised that group Financial Securities (defined as covering a number of Agents and having a maximum
-amount which can be claimed per default and per market per year) include the following financial security types:
-Default Insurance Programme, TAANZ, CWA Mutual Fund and Industry Trust Fund (Hong Kong). Please note that
-the coverage of group Financial Securities does not equal the aggregated amount at risk of the Agents under the
-Financial Security.
-Financial securities with an unlimited coverage have not been disclosed and will not show a percentage utilization
-of Financial Security. In the Report, the percentage of Financial Security and the Financial Security amount will
-appear as an asterisk.
-Management Information Report
-Page 1 of 2
-March 23, 2015
-Definitions
-~ Head Office: Agent IATA code
-~ Legal Name: Agent Legal Name
-~ Type: Agent Location Type (HO-Head Office, AO-Administrative Office)
-~ Frq: Remittance Frequency (W-Weekly, T-Twice a Week, S-Super Weekly, F-Fortnightly, D-Every 10 days, M-
-Monthly)
-~ Sales to be remitted: Total Reported Sales (NET) in the report period that are not yet due for remittance.
-~ %Financial Security Utilized: It is the percentage of Financial Security used compared to sales to be remitted.
-~ Daily Cash Avg.: The ratio between Daily Net Cash Sales (cumulated) until the date of this report AND the
-number of days in the reported period.
-~ Avg. Daily Sales Variation: The Daily Cash Average in the current period as compared to the Average Daily
-Cash sales in the last 12 months.
-Management Information Report
-Page 2 of 2
-March 23, 2015
-List of BSP Countries for which Agents meet the filtering criteria
-~ United Arab Emirates (AE)
-~ Argentina (AR)
-~ Austria (AT)
-~ Canada (CA)
-~ Côte d'Ivoire (CI)
-~ Chile (CL)
-~ Dominican Republic (DO)
-~ France (FR)
-~ United Kingdom (GB)
-~ Greece (GR)
-~ Hong Kong (HK)
-~ Indonesia (ID)
-~ Ireland (IE)
-~ India (IN)
-~ Italy (IT)
-~ Kazakhstan (KZ)
-~ Morocco (MA)
-~ Mexico (MX)
-~ Malaysia (MY)
-~ Philippines (PH)
-~ Pakistan (PK)
-~ Saudi Arabia (SA)
-~ Turkey (TR)
-~ Chinese Taipei (TW)
-Management Information Report
-March 23, 2015 Page 1 of 1
-BSP United Arab Emirates (AE) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-86212103 SKYLINE TRAVEL, TOURISM & SHIPPING HO W 2,226,350.96 Bank Guarantee 142.12% 106,016.71 159.04%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 1 of 151
-March 23, 2015
-BSP United Arab Emirates (AE) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP AE - Agent 86212103
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 2 of 151
-March 23, 2015
-BSP Albania (AL)
-Management Information Report (USD)
-No Agents in the BSP Country Albania (AL) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 3 of 151
-March 23, 2015
-BSP Argentina (AR) Period: 10-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-55502624 DESPEGAR.COM.AR S.A. HO W 1,770,592.39 Insurance Bond 56.33% 136,199.41 134.60%
-55834450 ROTAMUND S.R.L. HO W 540,778.75 N/A 41,598.37 106.96%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 4 of 151
-March 23, 2015
-BSP Argentina (AR) Period: 10-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP AR - Agent 55502624 BSP AR - Agent 55834450
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 5 of 151
-March 23, 2015
-BSP Austria (AT) Period: 02-Mar-2015 - 21-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-06200950 KNEISSL TOURISTIK GMBH HO W 746,409.31
-Statement Of
-Assignment
-101.00% 37,320.47 116.83%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 6 of 151
-March 23, 2015
-BSP Austria (AT) Period: 02-Mar-2015 - 21-Mar-2015
-Management Information Report (USD)
-BSP AT - Agent 06200950
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 7 of 151
-March 23, 2015
-BSP Australia (AU)
-Management Information Report (USD)
-No Agents in the BSP Country Australia (AU) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 8 of 151
-March 23, 2015
-BSP Azerbaijan (AZ)
-Management Information Report (USD)
-No Agents in the BSP Country Azerbaijan (AZ) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 9 of 151
-March 23, 2015
-BSP Bosnia and Herzegovina (BA)
-Management Information Report (USD)
-No Agents in the BSP Country Bosnia and Herzegovina (BA) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 10 of 151
-March 23, 2015
-BSP Bangladesh (BD)
-Management Information Report (USD)
-No Agents in the BSP Country Bangladesh (BD) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 11 of 151
-March 23, 2015
-BSP Belgium (BE)
-Management Information Report (USD)
-No Agents in the BSP Country Belgium (BE) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 12 of 151
-March 23, 2015
-BSP Burkina Faso (BF)
-Management Information Report (USD)
-No Agents in the BSP Country Burkina Faso (BF) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 13 of 151
-March 23, 2015
-BSP Bulgaria (BG)
-Management Information Report (USD)
-No Agents in the BSP Country Bulgaria (BG) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 14 of 151
-March 23, 2015
-BSP Bahrain (BH)
-Management Information Report (USD)
-No Agents in the BSP Country Bahrain (BH) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 15 of 151
-March 23, 2015
-BSP Benin (BJ)
-Management Information Report (USD)
-No Agents in the BSP Country Benin (BJ) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 16 of 151
-March 23, 2015
-BSP Bermuda (BM)
-Management Information Report (USD)
-No Agents in the BSP Country Bermuda (BM) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 17 of 151
-March 23, 2015
-BSP Bolivia, Plurinational State of (BO)
-Management Information Report (USD)
-No Agents in the BSP Country Bolivia, Plurinational State of (BO) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 18 of 151
-March 23, 2015
-BSP Bahamas (BS)
-Management Information Report (USD)
-No Agents in the BSP Country Bahamas (BS) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 19 of 151
-March 23, 2015
-BSP Botswana (BW)
-Management Information Report (USD)
-No Agents in the BSP Country Botswana (BW) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 20 of 151
-March 23, 2015
-BSP Belize (BZ)
-Management Information Report (USD)
-No Agents in the BSP Country Belize (BZ) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 21 of 151
-March 23, 2015
-BSP Canada (CA) Period: 10-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-67500716 SKYROUTE TRAVEL SERVICES INC. HO W 2,548,474.69 N/A 196,036.51 479.14%
-69683246 LEXUS TRAVEL INC. VOYAGES LEXUS INC. HO W 823,248.62 N/A 63,326.82 194.50%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 22 of 151
-March 23, 2015
-BSP Canada (CA) Period: 10-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP CA - Agent 67500716 BSP CA - Agent 69683246
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 23 of 151
-March 23, 2015
-BSP Congo (CG)
-Management Information Report (USD)
-No Agents in the BSP Country Congo (CG) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 24 of 151
-March 23, 2015
-BSP Switzerland (CH)
-Management Information Report (USD)
-No Agents in the BSP Country Switzerland (CH) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 25 of 151
-March 23, 2015
-BSP Côte d'Ivoire (CI) Period: 02-Mar-2015 - 21-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-39210710 CONGRESS AND BUSINESS MANAGEMENT -COTE D'IVOIRE S.A HO M 910,475.74 Bank Guarantee 472.90% 45,523.79 121.69%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 26 of 151
-March 23, 2015
-BSP Côte d'Ivoire (CI) Period: 02-Mar-2015 - 21-Mar-2015
-Management Information Report (USD)
-BSP CI - Agent 39210710
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 27 of 151
-March 23, 2015
-BSP Chile (CL) Period: 10-Mar-2015 - 21-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-75502582 PANAMERICANA TURISMO LTDA. HO W 445,339.55 N/A 37,111.63 100.50%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 28 of 151
-March 23, 2015
-BSP Chile (CL) Period: 10-Mar-2015 - 21-Mar-2015
-Management Information Report (USD)
-BSP CL - Agent 75502582
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 29 of 151
-March 23, 2015
-BSP Cameroon (CM)
-Management Information Report (USD)
-No Agents in the BSP Country Cameroon (CM) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 30 of 151
-March 23, 2015
-BSP Colombia (CO)
-Management Information Report (USD)
-No Agents in the BSP Country Colombia (CO) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 31 of 151
-March 23, 2015
-BSP Costa Rica (CR)
-Management Information Report (USD)
-No Agents in the BSP Country Costa Rica (CR) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 32 of 151
-March 23, 2015
-BSP Cyprus (CY)
-Management Information Report (USD)
-No Agents in the BSP Country Cyprus (CY) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 33 of 151
-March 23, 2015
-BSP Czech Republic (CZ)
-Management Information Report (USD)
-No Agents in the BSP Country Czech Republic (CZ) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 34 of 151
-March 23, 2015
-BSP Denmark (DK)
-Management Information Report (USD)
-No Agents in the BSP Country Denmark (DK) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 35 of 151
-March 23, 2015
-BSP Dominican Republic (DO) Period: 10-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-92534901 TRAVELWISE COORDINADORES DE VIAJES Y EVENTOS S.R.L. HO W 615,941.41 Bank Guarantee 128.05% 47,380.11 101.95%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 36 of 151
-March 23, 2015
-BSP Dominican Republic (DO) Period: 10-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP DO - Agent 92534901
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 37 of 151
-March 23, 2015
-BSP Ecuador (EC)
-Management Information Report (USD)
-No Agents in the BSP Country Ecuador (EC) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 38 of 151
-March 23, 2015
-BSP Estonia (EE)
-Management Information Report (USD)
-No Agents in the BSP Country Estonia (EE) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 39 of 151
-March 23, 2015
-BSP Egypt (EG)
-Management Information Report (USD)
-No Agents in the BSP Country Egypt (EG) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 40 of 151
-March 23, 2015
-BSP Spain (ES)
-Management Information Report (USD)
-No Agents in the BSP Country Spain (ES) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 41 of 151
-March 23, 2015
-BSP Ethiopia (ET)
-Management Information Report (USD)
-No Agents in the BSP Country Ethiopia (ET) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 42 of 151
-March 23, 2015
-BSP Finland (FI)
-Management Information Report (USD)
-No Agents in the BSP Country Finland (FI) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 43 of 151
-March 23, 2015
-BSP Fiji (FJ)
-Management Information Report (USD)
-No Agents in the BSP Country Fiji (FJ) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 44 of 151
-March 23, 2015
-BSP Micronesia, Federated States of (FM)
-Management Information Report (USD)
-No Agents in the BSP Country Micronesia, Federated States of (FM) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 45 of 151
-March 23, 2015
-BSP France (FR) Period: 02-Mar-2015 - 21-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-20205765 TRAVEL PLANET NORD DE FRANCE SARL HO W 1,347,326.62 N/A 67,366.33 253.74%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 46 of 151
-March 23, 2015
-BSP France (FR) Period: 02-Mar-2015 - 21-Mar-2015
-Management Information Report (USD)
-BSP FR - Agent 20205765
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 47 of 151
-March 23, 2015
-BSP Gabon (GA)
-Management Information Report (USD)
-No Agents in the BSP Country Gabon (GA) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 48 of 151
-March 23, 2015
-BSP United Kingdom (GB) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-91209311 HAYS TRANSPORT LTD HO W 1,408,259.40 N/A 67,059.97 142.83%
-91213220 MR M A ALAM AND MR A ASAHRIF HO W 1,131,670.35 N/A 53,889.06 103.40%
-91238862 NST TRAVEL GROUP LIMITED HO W 1,921,292.64 N/A 91,490.13 142.55%
-91274956 EQUITY INSPIRING LEARNING LIMITED HO W 2,452,771.16 Bank Guarantee 222.54% 188,674.70 863.85%
-91284712 BANKS SADLER LTD HO W 1,397,363.80 N/A 66,541.13 218.31%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 49 of 151
-March 23, 2015
-BSP United Kingdom (GB) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP GB - Agent 91209311 BSP GB - Agent 91213220 BSP GB - Agent 91238862
-BSP GB - Agent 91274956 BSP GB - Agent 91284712
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 50 of 151
-March 23, 2015
-BSP Georgia (GE)
-Management Information Report (USD)
-No Agents in the BSP Country Georgia (GE) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 51 of 151
-March 23, 2015
-BSP Ghana (GH)
-Management Information Report (USD)
-No Agents in the BSP Country Ghana (GH) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 52 of 151
-March 23, 2015
-BSP Greece (GR) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-27213465 AIRTICKETS TOURISTIKES YPIRESIES A.E. HO F 8,626,375.15 N/A 410,779.77 128.05%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 53 of 151
-March 23, 2015
-BSP Greece (GR) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP GR - Agent 27213465
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 54 of 151
-March 23, 2015
-BSP Guatemala (GT)
-Management Information Report (USD)
-No Agents in the BSP Country Guatemala (GT) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 55 of 151
-March 23, 2015
-BSP Guam (GU)
-Management Information Report (USD)
-No Agents in the BSP Country Guam (GU) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 56 of 151
-March 23, 2015
-BSP Hong Kong (HK) Period: 10-Mar-2015 - 20-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-13300280 HONG KONG WING ON TRAVEL SERVICE LTD HO W 4,627,735.92 N/A 420,703.27 130.41%
-13301853 WINCASTLE TRAVEL (HK) LTD HO W 1,325,037.04 N/A 120,457.91 103.27%
-13302822 NORRAY TRAVEL CO LTD HO W 889,953.57 N/A 80,904.87 112.19%
-13303614 EGL TOURS COMPANY LIMITED HO W 1,053,521.86 N/A 95,774.71 148.04%
-13305456 TEMPUS GLOBAL LIMITED HO W 403,864.96 Bank Guarantee 97.89% 36,715.00 106.29%
-13305600 HUTCHISON-PRICELINE (TRAVEL) LTD HO W 2,497,336.39 Bank Guarantee 298.01% 227,030.58 127.27%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 57 of 151
-March 23, 2015
-BSP Hong Kong (HK) Period: 10-Mar-2015 - 20-Mar-2015
-Management Information Report (USD)
-BSP HK - Agent 13300280 BSP HK - Agent 13301853 BSP HK - Agent 13302822
-BSP HK - Agent 13303614 BSP HK - Agent 13305456 BSP HK - Agent 13305600
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 58 of 151
-March 23, 2015
-BSP Honduras (HN)
-Management Information Report (USD)
-No Agents in the BSP Country Honduras (HN) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 59 of 151
-March 23, 2015
-BSP Croatia (HR)
-Management Information Report (USD)
-No Agents in the BSP Country Croatia (HR) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 60 of 151
-March 23, 2015
-BSP Haiti (HT)
-Management Information Report (USD)
-No Agents in the BSP Country Haiti (HT) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 61 of 151
-March 23, 2015
-BSP Hungary (HU)
-Management Information Report (USD)
-No Agents in the BSP Country Hungary (HU) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 62 of 151
-March 23, 2015
-BSP Indonesia (ID) Period: 02-Mar-2015 - 21-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-15310201 PT ARMINAREKA PERDANA HO F 1,109,059.78 DIP 55.45% 55,452.99 103.54%
-15310956 PT ALIA INDAH WISATA HO F 4,177,003.55 DIP 208.85% 219,842.29 159.16%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 63 of 151
-March 23, 2015
-BSP Indonesia (ID) Period: 02-Mar-2015 - 21-Mar-2015
-Management Information Report (USD)
-BSP ID - Agent 15310201 BSP ID - Agent 15310956
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 64 of 151
-March 23, 2015
-BSP Ireland (IE) Period: 09-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-36200301 USIT IRELAND LTD HO W 1,374,093.03 N/A 98,149.50 252.24%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 65 of 151
-March 23, 2015
-BSP Ireland (IE) Period: 09-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP IE - Agent 36200301
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 66 of 151
-March 23, 2015
-BSP India (IN) Period: 09-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-14341294 AADESH TRAVELS PVT. LTD. HO F 868,473.06
-Bank Guarantee,
-Insurance Bond
-181.77% 62,033.79 106.59%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 67 of 151
-March 23, 2015
-BSP India (IN) Period: 09-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP IN - Agent 14341294
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 68 of 151
-March 23, 2015
-BSP Iceland (IS)
-Management Information Report (USD)
-No Agents in the BSP Country Iceland (IS) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 69 of 151
-March 23, 2015
-BSP Italy (IT) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-38214540 IMPRONTE VIAGGI SRL HO M 1,057,422.17 Bank Guarantee 102.97% 50,353.44 104.18%
-38277702 VIAGGIARE SRL HO M 5,789,071.78 Bank Guarantee 152.69% 275,670.08 154.09%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 70 of 151
-March 23, 2015
-BSP Italy (IT) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP IT - Agent 38214540 BSP IT - Agent 38277702
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 71 of 151
-March 23, 2015
-BSP Jamaica (JM)
-Management Information Report (USD)
-No Agents in the BSP Country Jamaica (JM) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 72 of 151
-March 23, 2015
-BSP Jordan (JO)
-Management Information Report (USD)
-No Agents in the BSP Country Jordan (JO) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 73 of 151
-March 23, 2015
-BSP Japan (JP)
-Management Information Report (USD)
-No Agents in the BSP Country Japan (JP) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 74 of 151
-March 23, 2015
-BSP Kenya (KE)
-Management Information Report (USD)
-No Agents in the BSP Country Kenya (KE) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 75 of 151
-March 23, 2015
-BSP Cambodia (KH)
-Management Information Report (USD)
-No Agents in the BSP Country Cambodia (KH) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 76 of 151
-March 23, 2015
-BSP Kuwait (KW)
-Management Information Report (USD)
-No Agents in the BSP Country Kuwait (KW) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 77 of 151
-March 23, 2015
-BSP Cayman Islands (KY)
-Management Information Report (USD)
-No Agents in the BSP Country Cayman Islands (KY) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 78 of 151
-March 23, 2015
-BSP Kazakhstan (KZ) Period: 09-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-65320511 LLP FIRM AMID HO W 622,445.72 Bank Guarantee 194.51% 44,460.41 121.53%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 79 of 151
-March 23, 2015
-BSP Kazakhstan (KZ) Period: 09-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP KZ - Agent 65320511
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 80 of 151
-March 23, 2015
-BSP Lebanon (LB)
-Management Information Report (USD)
-No Agents in the BSP Country Lebanon (LB) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 81 of 151
-March 23, 2015
-BSP Sri Lanka (LK)
-Management Information Report (USD)
-No Agents in the BSP Country Sri Lanka (LK) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 82 of 151
-March 23, 2015
-BSP Lithuania (LT)
-Management Information Report (USD)
-No Agents in the BSP Country Lithuania (LT) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 83 of 151
-March 23, 2015
-BSP Latvia (LV)
-Management Information Report (USD)
-No Agents in the BSP Country Latvia (LV) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 84 of 151
-March 23, 2015
-BSP Morocco (MA) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-54210026 S'TOURS S.A. HO M 1,020,605.92 N/A 48,600.28 151.15%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 85 of 151
-March 23, 2015
-BSP Morocco (MA) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP MA - Agent 54210026
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 86 of 151
-March 23, 2015
-BSP Macedonia, the former Yugoslav Republic of (MK)
-Management Information Report (USD)
-No Agents in the BSP Country Macedonia, the former Yugoslav Republic of (MK) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 87 of 151
-March 23, 2015
-BSP Mali (ML)
-Management Information Report (USD)
-No Agents in the BSP Country Mali (ML) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 88 of 151
-March 23, 2015
-BSP Mongolia (MN)
-Management Information Report (USD)
-No Agents in the BSP Country Mongolia (MN) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 89 of 151
-March 23, 2015
-BSP Macao (MO)
-Management Information Report (USD)
-No Agents in the BSP Country Macao (MO) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 90 of 151
-March 23, 2015
-BSP Mauritania (MR)
-Management Information Report (USD)
-No Agents in the BSP Country Mauritania (MR) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 91 of 151
-March 23, 2015
-BSP Malta (MT)
-Management Information Report (USD)
-No Agents in the BSP Country Malta (MT) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 92 of 151
-March 23, 2015
-BSP Mauritius (MU)
-Management Information Report (USD)
-No Agents in the BSP Country Mauritius (MU) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 93 of 151
-March 23, 2015
-BSP Malawi (MW)
-Management Information Report (USD)
-No Agents in the BSP Country Malawi (MW) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 94 of 151
-March 23, 2015
-BSP Mexico (MX) Period: 10-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-86500772 CORPORATE TRAVEL SERVICES S.A. DE C.V. HO W 4,041,196.44 N/A 310,861.26 100.40%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 95 of 151
-March 23, 2015
-BSP Mexico (MX) Period: 10-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP MX - Agent 86500772
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 96 of 151
-March 23, 2015
-BSP Malaysia (MY) Period: 10-Mar-2015 - 20-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-20300711 GOLDEN TOURWORLD TRAVEL (M) SDN BHD HO W 830,026.42 Bank Guarantee 159.93% 75,456.95 104.89%
-20311804 ANDALUSIA TRAVEL & TOURS SDN BHD HO W 675,286.60 Bank Guarantee 163.16% 61,389.69 158.80%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 97 of 151
-March 23, 2015
-BSP Malaysia (MY) Period: 10-Mar-2015 - 20-Mar-2015
-Management Information Report (USD)
-BSP MY - Agent 20300711 BSP MY - Agent 20311804
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 98 of 151
-March 23, 2015
-BSP Mozambique (MZ)
-Management Information Report (USD)
-No Agents in the BSP Country Mozambique (MZ) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 99 of 151
-March 23, 2015
-BSP New Caledonia (NC)
-Management Information Report (USD)
-No Agents in the BSP Country New Caledonia (NC) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 100 of 151
-March 23, 2015
-BSP Niger (NE)
-Management Information Report (USD)
-No Agents in the BSP Country Niger (NE) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 101 of 151
-March 23, 2015
-BSP Nigeria (NG)
-Management Information Report (USD)
-No Agents in the BSP Country Nigeria (NG) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 102 of 151
-March 23, 2015
-BSP Nicaragua (NI)
-Management Information Report (USD)
-No Agents in the BSP Country Nicaragua (NI) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 103 of 151
-March 23, 2015
-BSP Norway (NO)
-Management Information Report (USD)
-No Agents in the BSP Country Norway (NO) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 104 of 151
-March 23, 2015
-BSP Nepal (NP)
-Management Information Report (USD)
-No Agents in the BSP Country Nepal (NP) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 105 of 151
-March 23, 2015
-BSP New Zealand (NZ)
-Management Information Report (USD)
-No Agents in the BSP Country New Zealand (NZ) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 106 of 151
-March 23, 2015
-BSP Oman (OM)
-Management Information Report (USD)
-No Agents in the BSP Country Oman (OM) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 107 of 151
-March 23, 2015
-BSP Panama (PA)
-Management Information Report (USD)
-No Agents in the BSP Country Panama (PA) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 108 of 151
-March 23, 2015
-BSP Peru (PE)
-Management Information Report (USD)
-No Agents in the BSP Country Peru (PE) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 109 of 151
-March 23, 2015
-BSP French Polynesia (PF)
-Management Information Report (USD)
-No Agents in the BSP Country French Polynesia (PF) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 110 of 151
-March 23, 2015
-BSP Papua New Guinea (PG)
-Management Information Report (USD)
-No Agents in the BSP Country Papua New Guinea (PG) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 111 of 151
-March 23, 2015
-BSP Philippines (PH) Period: 02-Mar-2015 - 20-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-28300252 EXECUTIVE RESOURCES INC. HO W 699,556.96 DIP 27.98% 36,818.79 115.82%
-28300381 PIONEER TOURS CORPORATION HO W 753,687.83 DIP 30.15% 39,667.78 119.11%
-28303564 SPECTRUM TRAVEL AND TOURS, INC HO W 1,056,511.63 DIP 42.26% 55,605.88 133.52%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 112 of 151
-March 23, 2015
-BSP Philippines (PH) Period: 02-Mar-2015 - 20-Mar-2015
-Management Information Report (USD)
-BSP PH - Agent 28300252 BSP PH - Agent 28300381 BSP PH - Agent 28303564
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 113 of 151
-March 23, 2015
-BSP Pakistan (PK) Period: 10-Mar-2015 - 20-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-27303054 BUKHARI TRAVEL SERVICES (PVT) LTD HO W 471,786.30 Insurance Bond 100.02% 42,889.66 146.18%
-27304351 MAX INTERNATIONAL TRAVELS PVT LTD HO W 428,886.50 Insurance Bond 77.25% 38,989.68 124.39%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 114 of 151
-March 23, 2015
-BSP Pakistan (PK) Period: 10-Mar-2015 - 20-Mar-2015
-Management Information Report (USD)
-BSP PK - Agent 27303054 BSP PK - Agent 27304351
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 115 of 151
-March 23, 2015
-BSP Poland (PL)
-Management Information Report (USD)
-No Agents in the BSP Country Poland (PL) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 116 of 151
-March 23, 2015
-BSP Portugal (PT)
-Management Information Report (USD)
-No Agents in the BSP Country Portugal (PT) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 117 of 151
-March 23, 2015
-BSP Paraguay (PY)
-Management Information Report (USD)
-No Agents in the BSP Country Paraguay (PY) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 118 of 151
-March 23, 2015
-BSP Qatar (QA)
-Management Information Report (USD)
-No Agents in the BSP Country Qatar (QA) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 119 of 151
-March 23, 2015
-BSP Romania (RO)
-Management Information Report (USD)
-No Agents in the BSP Country Romania (RO) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 120 of 151
-March 23, 2015
-BSP Rwanda (RW)
-Management Information Report (USD)
-No Agents in the BSP Country Rwanda (RW) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 121 of 151
-March 23, 2015
-BSP Saudi Arabia (SA) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-71200441 AL GHAZAL TRAVEL AGENCY HO W 2,174,807.60 Bank Guarantee 417.27% 103,562.27 102.01%
-71204792 SANDROSS TRAVEL & TOUR AGENCY HO W 810,046.59 Bank Guarantee 303.85% 38,573.65 103.87%
-71212164 ALRAJHI TRAVELS & TOURISM HO W 2,284,863.45 Bank Guarantee 188.65% 108,803.02 158.34%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 122 of 151
-March 23, 2015
-BSP Saudi Arabia (SA) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP SA - Agent 71200441 BSP SA - Agent 71204792 BSP SA - Agent 71212164
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 123 of 151
-March 23, 2015
-BSP Sweden (SE)
-Management Information Report (USD)
-No Agents in the BSP Country Sweden (SE) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 124 of 151
-March 23, 2015
-BSP Singapore (SG)
-Management Information Report (USD)
-No Agents in the BSP Country Singapore (SG) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 125 of 151
-March 23, 2015
-BSP Slovenia (SI)
-Management Information Report (USD)
-No Agents in the BSP Country Slovenia (SI) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 126 of 151
-March 23, 2015
-BSP Slovakia (SK)
-Management Information Report (USD)
-No Agents in the BSP Country Slovakia (SK) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 127 of 151
-March 23, 2015
-BSP Senegal (SN)
-Management Information Report (USD)
-No Agents in the BSP Country Senegal (SN) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 128 of 151
-March 23, 2015
-BSP El Salvador (SV)
-Management Information Report (USD)
-No Agents in the BSP Country El Salvador (SV) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 129 of 151
-March 23, 2015
-BSP Syrian Arab Republic (SY)
-Management Information Report (USD)
-No Agents in the BSP Country Syrian Arab Republic (SY) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 130 of 151
-March 23, 2015
-BSP Turks and Caicos Islands (TC)
-Management Information Report (USD)
-No Agents in the BSP Country Turks and Caicos Islands (TC) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 131 of 151
-March 23, 2015
-BSP Chad (TD)
-Management Information Report (USD)
-No Agents in the BSP Country Chad (TD) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 132 of 151
-March 23, 2015
-BSP Togo (TG)
-Management Information Report (USD)
-No Agents in the BSP Country Togo (TG) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 133 of 151
-March 23, 2015
-BSP Thailand (TH)
-Management Information Report (USD)
-No Agents in the BSP Country Thailand (TH) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 134 of 151
-March 23, 2015
-BSP Tunisia (TN)
-Management Information Report (USD)
-No Agents in the BSP Country Tunisia (TN) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 135 of 151
-March 23, 2015
-BSP Tonga (TO)
-Management Information Report (USD)
-No Agents in the BSP Country Tonga (TO) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 136 of 151
-March 23, 2015
-BSP Turkey (TR) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-88216575 IATI TURIZM TICARET AS HO F 1,897,563.65 Bank Guarantee 292.83% 90,360.17 211.07%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 137 of 151
-March 23, 2015
-BSP Turkey (TR) Period: 02-Mar-2015 - 22-Mar-2015
-Management Information Report (USD)
-BSP TR - Agent 88216575
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 138 of 151
-March 23, 2015
-BSP Trinidad and Tobago (TT)
-Management Information Report (USD)
-No Agents in the BSP Country Trinidad and Tobago (TT) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 139 of 151
-March 23, 2015
-BSP Chinese Taipei (TW) Period: 09-Mar-2015 - 20-Mar-2015
-Management Information Report (USD)
-Head Office Legal Name Type Frq.
-Sales to be
-Remitted
-Financial Security
-Type
-%Financial
-Security
-Utilized
-Daily Cash Avg
-Average
-Daily Sales
-Variation
-34300431 GREAT STAR TRAVEL SERVICE HO W 1,190,361.08 Bank Guarantee 71.14% 99,196.76 127.52%
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 140 of 151
-March 23, 2015
-BSP Chinese Taipei (TW) Period: 09-Mar-2015 - 20-Mar-2015
-Management Information Report (USD)
-BSP TW - Agent 34300431
-Financial Security Amount
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 141 of 151
-March 23, 2015
-BSP Tanzania, United Republic of (TZ)
-Management Information Report (USD)
-No Agents in the BSP Country Tanzania, United Republic of (TZ) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 142 of 151
-March 23, 2015
-BSP Ukraine (UA)
-Management Information Report (USD)
-No Agents in the BSP Country Ukraine (UA) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 143 of 151
-March 23, 2015
-BSP Uganda (UG)
-Management Information Report (USD)
-No Agents in the BSP Country Uganda (UG) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 144 of 151
-March 23, 2015
-BSP Uruguay (UY)
-Management Information Report (USD)
-No Agents in the BSP Country Uruguay (UY) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 145 of 151
-March 23, 2015
-BSP Viet Nam (VN)
-Management Information Report (USD)
-No Agents in the BSP Country Viet Nam (VN) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 146 of 151
-March 23, 2015
-BSP Samoa (WS)
-Management Information Report (USD)
-No Agents in the BSP Country Samoa (WS) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 147 of 151
-March 23, 2015
-BSP Yemen (YE)
-Management Information Report (USD)
-No Agents in the BSP Country Yemen (YE) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 148 of 151
-March 23, 2015
-BSP South Africa (ZA)
-Management Information Report (USD)
-No Agents in the BSP Country South Africa (ZA) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 149 of 151
-March 23, 2015
-BSP Zambia (ZM)
-Management Information Report (USD)
-No Agents in the BSP Country Zambia (ZM) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 150 of 151
-March 23, 2015
-BSP Zimbabwe (ZW)
-Management Information Report (USD)
-No Agents in the BSP Country Zimbabwe (ZW) meet the filtering criteria
-Reporting criteria : Agents with an average monthly sales for the last 12 months of 500,000.00 USD and above; that have 100 % or more sales variation
-Page 151 of 151
-March 23, 2015
-
